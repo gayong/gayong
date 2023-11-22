@@ -12,7 +12,7 @@
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![Jotai](https://img.shields.io/badge/Jotai-000000.svg?style=flat-square&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 **TOOL** 
 ![JIRA](https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
