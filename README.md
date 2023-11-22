@@ -1,6 +1,6 @@
 <div align=center>
   
-**💖 SKILLS**<br/>
+### 💖 SKILLS 💖
 ![NEXT.JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -16,7 +16,7 @@
 
 <div align=center>
   
-**🎁 TOOLS** <br/>
+### 🔮 TOOLS 🔮
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
 ![GITLAB](https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) 
 ![GERRIT](https://img.shields.io/badge/Gerrit-EEEEEE?style=flat-square&logo=gerrit&logoColor=white)
