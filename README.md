@@ -1,5 +1,5 @@
 ### Hi there 💖
-**Skills**
+**SKILLS**
 ![NEXT.JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -12,7 +12,7 @@
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![Jotai](https://img.shields.io/badge/Jotai-000000.svg?style=flat-square&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=flat-square&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
 
 **TOOL** 
 ![JIRA](https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
