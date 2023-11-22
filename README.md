@@ -1,10 +1,9 @@
 <div align=center>
   Hi, there 👻 
 <br/>
-  I'm a <b>Frontend developer</b> who loves challenging</div>
+  I'm a <b>Frontend developer</b> who loves challenging.</div>
 <div align=center>
 <br/>
-
 
 <b>💖 SKILLS 💖</b>
 <br/>
