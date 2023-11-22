@@ -1,7 +1,7 @@
 ### Hi there 💖
 
-![NEXT.JS](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=Next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-61DAFB?style=plastic&logo=react&logoColor=white)
+![NEXT.JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![React-Query](https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
