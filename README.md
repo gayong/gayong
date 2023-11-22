@@ -1,6 +1,4 @@
 ### Hi there 💖
-### 🌱 I'm a Frontend developer who enjoys challenging!
-
 <!--
 **dfsdf5645/dfsdf5645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
