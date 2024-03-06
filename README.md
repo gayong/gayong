@@ -1,12 +1,12 @@
 <div align=center>
   Hi, there 👻 
 <br/>
-  I'm a <b>Frontend developer</b> who loves challenging.</div>
+  I'm a <b>Frontend developer</b> who loves challenging</div>
 <div align=center>
 <br/>
 
 
-<b>💖 SKILLS 💖</b>
+<b>SKILLS</b>
 <br/>
 
 ![NEXT.JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
@@ -24,7 +24,7 @@
 </div>
 <div align=center>
 
-  <b>🔮 TOOLS 🔮</b>
+  <b>TOOLS</b>
 <br/>
 
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
