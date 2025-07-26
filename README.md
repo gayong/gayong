@@ -1,5 +1,5 @@
 <div align=center>
-  Hi, there 👻 
+  Hi there, it's me 👻 
 <div align=center>
 <br/>
 
